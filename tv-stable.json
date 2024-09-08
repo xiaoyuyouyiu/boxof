@@ -1,0 +1,9 @@
+{
+    "tag_name": "v2.2.2",
+    "assets": [
+        {
+            "browser_download_url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xiaoyuyouyiu/boxof/main/%E6%88%91%E7%9A%84%E7%94%B5%E8%A7%86_2.2.2.apk"
+        }
+    ],
+    "body": "### 修复\r\n\r\n- 替换直播源\r\n- 修复设置本地直播源时未申请文件权限"
+}
